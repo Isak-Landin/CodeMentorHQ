@@ -26,7 +26,7 @@ To set up the Open edX platform locally or on a server, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/codementorhq-edx.git
+    git clone https://github.com/Isak-Landin/CodeMentorHQ.git
     cd codementorhq-edx
     ```
 
@@ -56,14 +56,10 @@ Customize the platform by editing the `config.yml` file located in the `$(tutor 
 ## Usage
 - Access the LMS: `https://codementorhq.com`
 - Access the CMS: `https://studio.codementorhq.com`
+- Access to EMS: 'https://apps.codementorhq.com'
 
 ## Contributing
-We welcome contributions! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/your-feature`.
-5. Open a pull request.
+We welcome contributions!
 
 ## License
 This project is licensed under the AGPLv3 License - see the [LICENSE](LICENSE) file for details.
